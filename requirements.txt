@@ -1,0 +1,8 @@
+a python tool enabling you to have multiple clipboard features
+
+usage: python multipython.py command
+
+avaliable commands:
+- save
+- load
+- list
